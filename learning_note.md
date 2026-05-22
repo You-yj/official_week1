@@ -261,9 +261,10 @@
 - ‌**安装包**‌：在激活的环境下，用 `conda install 包名` 或 `pip install 包名` 安装所需库
 - **指定查看**该环境下安装的包：输入命令`conda list | grep package_name`，将`package_name`替换为想要查找的包名。
 
-<center class="half">
+<div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260522165234958.png?raw=true" width = "666" />
-</center>
+</div>
+
 
 # 七、Windows 虚拟机安装与使用
 
@@ -292,9 +293,8 @@
 
 <div align="center">
    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205842507.png?raw=true" width="320" />
-    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414210602928.png?raw=true" width="320" />
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414210602928.png?raw=true" width="330" />
 </div>
-
 
 - 排查问题
   
