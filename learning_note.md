@@ -50,7 +50,7 @@
          <kbd>win</kbd>+<kbd>R</kbd>，输入`diskmgmt.msc`
          
          <center class="half">
-             <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205323635.png?raw=true" style="width=100;" />
+             <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205323635.png?raw=true" width="100" />
          </center>
          
          
