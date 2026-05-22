@@ -50,14 +50,17 @@
          <kbd>win</kbd>+<kbd>R</kbd>，输入`diskmgmt.msc`
          
          <center class="half">
-             <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205323635.png?raw=true" width="600" />
+             <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205323635.png?raw=true" width="666" />
          </center>
+         
          
          故选**GPT**类型
          
       4. 其余选项默认即可，最终得到页面设置如下
          
-         <img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260414205544349.png" alt="image-20260414205544349" style="zoom:67%;" />
+         <center class="half">
+             <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205544349.png?raw=true" width = "325" />
+         </center>
       
     - 点击 **开始**，确认，确认
       
@@ -66,9 +69,10 @@
     - 等待进度条走完（绿色满格，显示**准备就绪**）
       
       <center class="half">
-          <img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260414213326470.png" width = "325" />
-          <img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260414213513906.png" style="zoom:67%;" />
+          <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414213326470.png?raw=true" width = "325" />
+          <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414213513906.png?raw=true" width = "325" />
       </center>
+      
       
       
       完成后，点**关闭**，**安全弹出U盘**（别直接拔！）
@@ -91,13 +95,17 @@
 
 - 若写了，这大概和下图一样:
 
-<img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260415155742826.png" alt="image-20260415155742826" style="zoom: 67%;" />
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260415155742826.png?raw=true" width = "666" />
+</center>
 
 此时需要:在【设置】-->【隐私和安全性】-->【设备加密】，把设备加密的开关关闭就好。(不过，磁盘已存储的数据越多，关闭设备加密耗时越长，如果电脑里面东西比较多的话最好合理安排一段空闲时间并接通电源再进行哦！)
 
 --关闭后再进入磁盘管理就会发现没有 (BitLocker 已加密) 这行信息了。
 
-<img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260415162958982.png" alt="image-20260415162958982" style="zoom:67%;" />
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260415162958982.png?raw=true" width = "666" />
+</center>
 
 ### 压缩分盘
 
@@ -109,7 +117,9 @@
 
 推荐一款比较好用的软件--**傲梅分区助手**，非常简单操作
 
-<img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260417142557805.png" alt="image-20260417142557805" style="zoom: 50%;" />
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260417142557805.png?raw=true" width = "666" />
+</center>
 
 ## 2.3正式安装ubuntu系统
 
@@ -128,7 +138,9 @@
 
 **结果：**
 
-<img src="/home/you-yingjun/Desktop/typora.图片收纳/135bce3f2f322d2380fed9975b7bade1.png" alt="135bce3f2f322d2380fed9975b7bade1" style="zoom: 80%;" />
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/135bce3f2f322d2380fed9975b7bade1.png?raw=true" width = "666" />
+</center>
 
 # 三、linux基础命令
 
@@ -179,9 +191,13 @@
 
 利用[系统基础命令](##系统基础命令)，就可以下载绝大多数工程软件
 
-<img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260522160848580.png" alt="image-20260522160848580" style="zoom: 50%;" />
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260522160848580.png?raw=true" width = "666" />
+</center>
 
-<img src="/home/you-yingjun/Desktop/typora.图片收纳/Screenshot from 2026-05-22 16-21-32.png" alt="Screenshot from 2026-05-22 16-21-32" style="zoom: 80%;" />
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/Screenshot%20from%202026-05-22%2016-21-32.png?raw=true" width = "666" />
+</center>
 
 主要包括：vscode、QQ、飞书、Typora、Vim、Git、Firefox、watt toolkit等
 
@@ -220,7 +236,9 @@
 
 - 验证安装：打开终端，输入命令`conda --version`
 
-![Screenshot from 2026-05-22 16-31-33](/home/you-yingjun/Desktop/typora.图片收纳/Screenshot from 2026-05-22 16-31-33.png)
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/Screenshot%20from%202026-05-22%2016-31-33.png?raw=true" width = "666" />
+</center>
 
 ## 环境管理与包安装
 
@@ -230,12 +248,16 @@
 - ‌**激活与退出**‌：输入 `conda activate 环境名` 进入环境，使用 `conda deactivate` 退出 
 - ‌**查看与删除**‌：`conda env list` 查看所有环境，`conda remove -n 环境名 --all` 删除环境 
 
-![Screenshot from 2026-05-22 16-34-19](/home/you-yingjun/Desktop/typora.图片收纳/Screenshot from 2026-05-22 16-34-19.png)
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/Screenshot%20from%202026-05-22%2016-34-19.png?raw=true" width = "666" />
+</center>
 
 - ‌**安装包**‌：在激活的环境下，用 `conda install 包名` 或 `pip install 包名` 安装所需库
 - **指定查看**该环境下安装的包：输入命令`conda list | grep package_name`，将`package_name`替换为想要查找的包名。
 
-<img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260522165234958.png" alt="image-20260522165234958" style="zoom: 80%;" />
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260522165234958.png?raw=true" width = "666" />
+</center>
 
 # 七、Windows 虚拟机安装与使用
 
@@ -244,11 +266,15 @@
 1. 启动虚拟机命令：`sudo virt-manager`
 2. 运行虚拟机
 
-<img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260522171604081.png" alt="image-20260522171604081" style="zoom:67%;" />
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260522171604081.png?raw=true" width = "325" />
+</center>
 
 3. 主机-虚拟机共享文件
 
-![image-20260522170747652](/home/you-yingjun/Desktop/typora.图片收纳/image-20260522170747652.png)
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260522170747652.png?raw=true" width = "666" />
+</center>
 
 # 八、问题记录与解决过程
 
@@ -257,17 +283,18 @@
 - 问题现象
 
 <center class="half">
-   <img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260414205842507.png"style="zoom:67%;" />
-    <img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260414210602928.png" style="zoom:67%;" />
+   <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205842507.png?raw=true" width="325" />
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414210602928.png?raw=true" width="325" />
 </center>
+
 
 - 排查问题
   
   由于是找不到路径，那么大概率是**【环境变量】中有无效路径**
 
-<img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260414212127441.png" alt="image-20260414212127441" style="zoom: 67%;" />
-
-<img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260414212327224.png" alt="image-20260414212327224" style="zoom:67%;" />
+<center class="half">
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414212127441.png?raw=true" width = "666" />
+</center>
 
 - 解决方案
   
