@@ -69,9 +69,10 @@
     - 等待进度条走完（绿色满格，显示**准备就绪**）
       
       <center class="half">
-          <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414213326470.png?raw=true" width = "325" />
-          <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414213513906.png?raw=true" width = "325" />
+          <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414213326470.png?raw=true" width = "320" />
+          <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414213513906.png?raw=true" width = "320" />
       </center>
+      
       
       
       
@@ -282,10 +283,11 @@
 
 - 问题现象
 
-<center class="half">
+<div align="center">
    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205842507.png?raw=true" width="320" />
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414210602928.png?raw=true" width="320" />
-</center>
+</div>
+
 
 - 排查问题
   
