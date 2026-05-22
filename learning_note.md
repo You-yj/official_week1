@@ -293,7 +293,7 @@
 
 <div align="center">
    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205842507.png?raw=true" width="320" />
-    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414210602928.png?raw=true" width="330" />
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414210602928.png?raw=true" width="350" />
 </div>
 
 - 排查问题
