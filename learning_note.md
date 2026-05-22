@@ -50,8 +50,9 @@
          <kbd>win</kbd>+<kbd>R</kbd>，输入`diskmgmt.msc`
          
          <center class="half">
-             <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205323635.png?raw=true" width="100" />
+             <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205323635.png?raw=true" width="325" />
          </center>
+         
          
          
          故选**GPT**类型
@@ -67,9 +68,10 @@
     - 等待进度条走完（绿色满格，显示**准备就绪**）
       
       <center class="half">
-          <img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260414213326470.png" style="zoom:67%;" />
+          <img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260414213326470.png" width = "325" />
           <img src="/home/you-yingjun/Desktop/typora.图片收纳/image-20260414213513906.png" style="zoom:67%;" />
       </center>
+      
       
       完成后，点**关闭**，**安全弹出U盘**（别直接拔！）
 
