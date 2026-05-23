@@ -145,6 +145,8 @@
 <div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/135bce3f2f322d2380fed9975b7bade1.png?raw=true" width = "666" />
 </div>
+
+
 ---
 
 # 三、linux基础命令
@@ -267,6 +269,8 @@
 <div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260522165234958.png?raw=true" width = "666" />
 </div>
+
+
 ---
 
 # 七、Windows 虚拟机安装与使用
@@ -284,6 +288,8 @@
 <div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260522170747652.png?raw=true" width = "666" />
 </div>
+
+
 ---
 
 # 八、问题记录与解决过程
@@ -293,8 +299,8 @@
 - 问题现象
 
 <div align="center">
-   <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205842507.png?raw=true" width="320" />
-    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414210602928.png?raw=true" width="335" />
+   <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205842507.png?raw=true" width="300" />
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414210602928.png?raw=true" width="310" />
 </div>
 
 
