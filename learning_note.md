@@ -19,6 +19,8 @@
    - 针对不同训练任务搭建独立的Python虚拟环境，隔离不同任务的依赖
    - 同时可能通过Windows虚拟机解决部分仅支持Windows 的工具 / 软件使用需求
 
+---
+
 # 二、Ubuntu系统安装
 
 ## 2.1制作安装盘
@@ -143,7 +145,7 @@
 <div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/135bce3f2f322d2380fed9975b7bade1.png?raw=true" width = "666" />
 </div>
-
+---
 
 # 三、linux基础命令
 
@@ -187,8 +189,11 @@
   4. 升级所有软件: sudo apt upgrade
 
 - **kill** 结束程序进程(杀进程)
-  kill PID :杀掉ID为100的进程：kill 100   (默认这个程序自动退出，有时候会未响应)
-  kill -9 PID :让这个程序立即终止
+  
+  1. kill PID :杀掉ID为100的进程：kill 100   (默认这个程序自动退出，有时候会未响应)
+  2. kill -9 PID :让这个程序立即终止
+
+---
 
 # 四、常用工程软件安装
 
@@ -201,9 +206,9 @@
 <div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/Screenshot%20from%202026-05-22%2016-21-32.png?raw=true" width = "666" />
 </div>
-
-
 主要包括：vscode、QQ、飞书、Typora、Vim、Git、Firefox、watt toolkit等
+
+---
 
 # 五、Vim 编辑器基础使用
 
@@ -224,6 +229,8 @@
 编辑好文件后，按<kbd>Esc</kbd> 进入一般模式，输入`:wq`保存推出
 `:w`保存；`:q`退出
 
+---
+
 # 六、Python 虚拟环境搭建
 
 ## Anaconda下载
@@ -243,32 +250,28 @@
 <div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/Screenshot%20from%202026-05-22%2016-31-33.png?raw=true" width = "666" />
 </div>
-
-
 ## 环境管理与包安装
 
 操作与windows系统中的操作没有区别
 
-- **创建环境**‌：使用 `conda create -n 环境名 python=版本号` 命令创建隔离环境，例如 `conda create -n myenv python=3.9` 
+- **创建环境**‌：使用 `conda create -n 环境名 python=版本号` 命令创建隔离环境，例如 `conda create -n py_base python=3.9` 
 - ‌**激活与退出**‌：输入 `conda activate 环境名` 进入环境，使用 `conda deactivate` 退出 
 - ‌**查看与删除**‌：`conda env list` 查看所有环境，`conda remove -n 环境名 --all` 删除环境 
 
 <div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/Screenshot%20from%202026-05-22%2016-34-19.png?raw=true" width = "666" />
 </div>
-
-
 - ‌**安装包**‌：在激活的环境下，用 `conda install 包名` 或 `pip install 包名` 安装所需库
 - **指定查看**该环境下安装的包：输入命令`conda list | grep package_name`，将`package_name`替换为想要查找的包名。
 
 <div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260522165234958.png?raw=true" width = "666" />
 </div>
-
+---
 
 # 七、Windows 虚拟机安装与使用
 
-根据群里所给的安装流程，部分问题与解决见[安装虚windows拟机遇到问题](##安装虚windows拟机遇到问题)，安装与使用结果如下：
+根据群里所给的安装流程，部分问题与解决见[安装windows虚拟机遇到问题](##安装虚windows拟机遇到问题)，安装与使用结果如下：
 
 1. 启动虚拟机命令：`sudo virt-manager`
 2. 运行虚拟机
@@ -276,14 +279,12 @@
 <div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260522171604081.png?raw=true" width = "325" />
 </div>
-
-
 3. 主机-虚拟机共享文件
 
 <div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260522170747652.png?raw=true" width = "666" />
 </div>
-
+---
 
 # 八、问题记录与解决过程
 
@@ -293,18 +294,17 @@
 
 <div align="center">
    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414205842507.png?raw=true" width="320" />
-    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414210602928.png?raw=true" width="350" />
+    <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414210602928.png?raw=true" width="335" />
 </div>
+
 
 - 排查问题
   
-  由于是找不到路径，那么大概率是**【环境变量】中有无效路径**
+  由于是找不到路径，那么大概率是【环境变量】中有无效路径
 
 <div align="center">
     <img src="https://github.com/You-yj/official_week1/blob/main/typora.%E5%9B%BE%E7%89%87%E6%94%B6%E7%BA%B3/image-20260414212127441.png?raw=true" width = "666" />
 </div>
-
-
 - 解决方案
   
   发现确实有路径是无效的，**将该路径删除后，重新制作一遍**，制作成功，见[2.1制作安装盘](##2.1制作安装盘)
@@ -384,6 +384,8 @@
 - 解决方案:
   
   通过网盘资源下载virtio-win.iso，下载速度提升至10MB/s，3分钟内完成下载，正常配置虚拟机驱动。
+
+---
 
 # 九、学习总结与个人感受
 
